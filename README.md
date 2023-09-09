@@ -4,4 +4,4 @@ Desafio de docker com GoLang. (Imagem GoLang num container Docker que tenha meno
 
 >>https://hub.docker.com/r/renanporcinoleme/fullcycle
 
-docker run renanporcinoleme/fullcycle
+ - docker run renanporcinoleme/fullcycle
